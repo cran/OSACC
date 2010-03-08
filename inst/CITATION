@@ -1,0 +1,13 @@
+citHeader("To cite OSACC in publications use:")
+citEntry(entry="Article",
+  title        = "Ordered Subset Analysis for Case-Control Studies",
+  author       = personList(as.person("Xuejun Qin"),
+                   as.person("Elizabeth R. Hauser"),
+                   as.person("Silke Schmidt")), 
+  journal = "Genetic Epidemiology",
+  year= "2010",
+  volume="34",
+  number = "5",  
+  pages="407-417",
+  textVersion ="Xuejun Qin, Elizabeth R. Hauser, Silke Schmidt (2010).,Ordered Subset Analysis for Case-Control Studies,Genetic Epidemiology 34(5),407-417."
+)
